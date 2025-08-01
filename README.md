@@ -55,7 +55,7 @@ It provides tailored dashboards and functionalities for various roles including 
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/Simranjit15kaur/College_management.git# Staff Management System
+git clone https://github.com/manasvi-patel/Staff-Management-System # Staff Management System
 
 A web-based platform designed to automate faculty scheduling, attendance tracking, leave management, and salary calculation for educational institutions.
 
