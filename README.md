@@ -112,4 +112,4 @@ It provides tailored dashboards and functionalities for various roles including 
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/Simranjit15kaur/College_management.git
+git clone (https://github.com/manasvi-patel/Staff-Management-System)
